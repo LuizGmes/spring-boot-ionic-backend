@@ -11,7 +11,7 @@ public class SmtpEmailService extends AbstractEmailService{
 	@Autowired
 	private MailSender mailSender;
 	
-	private static Logger LOG = LoggerFactory.getLogger(MockEmailService.class);
+	private static Logger LOG = LoggerFactory.getLogger(SmtpEmailService.class);
 
 	@Override
 	public void sendEmail(SimpleMailMessage msg) {

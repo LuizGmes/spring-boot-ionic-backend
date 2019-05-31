@@ -11,7 +11,6 @@ import com.gomesluiz.cursomc.domain.ItemPedido;
 import com.gomesluiz.cursomc.domain.PagamentoComBoleto;
 import com.gomesluiz.cursomc.domain.Pedido;
 import com.gomesluiz.cursomc.domain.enums.EstadoPagamento;
-import com.gomesluiz.cursomc.repositories.ClienteRepository;
 import com.gomesluiz.cursomc.repositories.ItemPedidoRepository;
 import com.gomesluiz.cursomc.repositories.PagamentoRepository;
 import com.gomesluiz.cursomc.repositories.PedidoRepository;
